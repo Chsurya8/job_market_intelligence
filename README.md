@@ -42,6 +42,3 @@ A data analytics project that analyzes job market trends, salary distributions, 
 
 Chatradi Naga Venkata Surya Sai Pavan
 
-LinkedIn: https://www.linkedin.com/in/surya-sai-pavan-179637395
-
-GitHub: https://github.com/yourusername
